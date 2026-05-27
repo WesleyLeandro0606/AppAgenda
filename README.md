@@ -152,7 +152,7 @@ Android Studio
 
 ▶ Como Executar
 1. Clonar o projeto
-git clone https://github.com/seuusuario/AppAgenda.git
+git clone https://github.com/WesleyLeandro0606/AppAgenda.git
 2. Abrir no Android Studio
 File → Open
 Selecionar a pasta do projeto
